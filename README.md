@@ -9,13 +9,13 @@ Git Find é uma aplicação web que oferece uma maneira simples e eficiente de c
 
 ## Gráfico do Sistema
 ### Tela Principal
-![Tela Principal](https://raw.githubusercontent.com/JoaoCarser/assets/main/GitFind/Principal.png)
+![Tela Principal](https://github.com/DevPauloS/assets/blob/main/GITFIND/Principal.png)
 ### Perfil 1
-![Perfil 1](https://raw.githubusercontent.com/JoaoCarser/assets/main/GitFind/ex_2.png)
+![Perfil 1](https://github.com/DevPauloS/assets/blob/main/GITFIND/ex_1.png)
 ### Perfil 2
-![Perfil 2](https://raw.githubusercontent.com/JoaoCarser/assets/main/GitFind/ex_1.png)
+![Perfil 2](https://github.com/DevPauloS/assets/blob/main/GITFIND/ex_2.png)
 ### Perfil 3
-![Perfil 3](https://raw.githubusercontent.com/JoaoCarser/assets/main/GitFind/ex_3.png)
+![Perfil 3](https://github.com/DevPauloS/assets/blob/main/GITFIND/ex_3.png)
 
 
 ## Tecnologias utilizadas
