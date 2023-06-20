@@ -1,4 +1,4 @@
-# GITFIND
+# GitFind
 
  - Desenvolvido para otimizar a busca de perfis mediante ao username inserido na barra de pesquisa.
 
